@@ -1,8 +1,32 @@
-*{font-family: 'Montserrat', sans-serif;}
-h1{font-weight: 400; font-size: 70px;font-weight: bolder;line-height: 0.3;}
-h2 {font-weight: 400; font-size: 40px;font-weight: bold;line-height: 0.3;}
-h3 {font-weight: 400;font-size: 33px;font-weight: bold;line-height: 0.3;}
-h4{font-weight: 400;;font-size: 19px;font-weight:bold;color: rgb(252, 104, 6) ;line-height: 0.3;}
-h5{font-weight: 400;font-size: 0.875em;font-weight: bold; color: rgb(177, 177, 177);line-height: 0.3;}
-a{color: rgb(92, 10, 10);}
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    font-weight: 400 bolder;
+    font-size: 70px;;
+    line-height: 0.3;
+}
+h2 {
+    font-weight: 400 bold;
+    font-size: 40px;
+    line-height: 0.3;
+}
+h3 {
+    font-weight: 400 bold;
+    line-height: 0.3;
+}
+h4 {
+    font-weight: 400 bold;
+    font-size: 19px;
+    color: rgb(252, 104, 6) ;
+    line-height: 0.3;
+}
+h5 {
+    font-weight: 400 bold;
+    font-size: 0.875em;
+    color: rgb(177, 177, 177);
+    line-height: 0.3;
+a {
+    color: rgb(92, 10, 10);
+}
 
