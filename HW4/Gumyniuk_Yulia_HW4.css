@@ -1,0 +1,88 @@
+.black-frame {
+    width: 500px;
+    height: 500px ;
+    border: 3px solid; 
+    border-color: black;
+  
+}
+
+.green-frame {
+    width: 484px;
+    height: 484px ;
+    border: 3px solid;
+    border-color: rgb(1, 99, 1);
+    
+}
+
+.orange-frame {
+    width: 478px;
+    height: 478px ;
+    border: 3px solid;
+    border-color: rgb(235, 186, 141);
+}
+
+.padding {
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px; 
+}
+
+.cube {
+    width: 50px;
+    height: 50px ;
+    border: 3px solid black;
+    border-radius: 2px; 
+    display: inline-block
+}
+
+.cube-gray {
+    background-color: grey;
+}
+
+.first-row {
+    margin-top: 120px;
+    margin-left: 62px;
+}
+
+.second-row {
+    margin-left: 122px;
+}
+
+.third-row {
+    margin-left: 122px;
+}
+.cube-pink {
+    background-color: lightcoral;
+}
+
+.fourth-row {
+    margin-left: 182px;
+}
+
+.cube-red {
+    background-color: red;
+}
+
+.fifth-row {
+    margin-left: 64px;
+}
+
+.cube-green {
+    background-color: chartreuse;
+}
+
+.cube-left-margin {
+    margin-left:58px;
+}
+
+.sixth-row {
+    margin-left: 2px
+}
+
+.cube-indigo {
+    background-color: indigo;
+}
+.first-cube-indigo {
+    margin-left: 58px;
+}
